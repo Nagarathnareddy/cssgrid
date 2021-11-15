@@ -1,0 +1,64 @@
+#a1
+{
+    width: 1800px;
+    height: 1000px;overflow: hidden;
+    border-radius: 5px;
+    border-width: 10px;
+    border-style: solid;
+
+    
+}
+#a2
+{
+    position:absolute;
+  left: 10px;
+    bottom: 650px;
+    overflow: hidden;
+    border-radius: 5px;
+    border-width: 10px;
+    border-style: solid;
+    border-color: teal;
+
+}
+#a3
+{
+    position:absolute;
+    left: 900px;
+      bottom: 850px;
+      overflow: hidden;
+     font-size: 50px;
+     border-radius: 5px;
+     border-width: 10px;
+     border-style: solid;
+     border-color:teal;
+     color:#c0fdff;     
+}
+#a4
+{
+    position:absolute;
+    left: 1500px;
+      bottom: 850px;
+      overflow: hidden;
+      font-size: 50px;
+      border-radius: 5px;
+      border-width: 10px;
+      border-style: solid;
+      border-color:white;
+      color:#c0fdff; 
+      border-color:teal;
+}
+
+#ind2
+{
+    text-align: center;
+    color: #a44a3f;
+    border-radius: 5px;
+     border-width: 10px;
+     border-style: solid;
+
+}
+#in
+{
+    background-color:#3d8aad;
+}
+
